@@ -20,6 +20,7 @@
   },
   "dependencies": {
     "next": "10.0.7",
+    "next-pwa": "^5.0.5",
     "react": "17.0.1",
     "react-dom": "17.0.1",
     "styled-components": "^5.2.1"
@@ -31,7 +32,6 @@
     "@storybook/addon-essentials": "^6.1.20",
     "@storybook/addon-knobs": "^6.1.20",
     "@storybook/addon-links": "^6.1.20",
-    "@storybook/preset-typescript": "^3.0.0",
     "@storybook/react": "^6.1.20",
     "@testing-library/jest-dom": "^5.11.9",
     "@testing-library/react": "^11.2.5",
